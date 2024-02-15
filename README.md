@@ -1,1 +1,2 @@
 # TypingPractice
+Youtubeのタイピングゲームの作り方の動画を参考に作りました。
